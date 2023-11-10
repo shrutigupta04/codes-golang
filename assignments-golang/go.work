@@ -1,0 +1,19 @@
+go 1.21.3
+
+use (
+	./test-1/largestSubarraySum
+	./test-2/isPalindrome
+	./test-2/missingNumber
+	./test-3/squareRoot
+	./test-3/minPlatforms
+	./test-3/mergearrays
+	./test-5/longestIncresingSubsequence
+	./test-7/matchingStrings
+	./test-7/stockMax
+	./test-8/balancedBrackets
+	./test-8/gameof2stacks
+	./test-9/powerSum
+	./test-9/recursiveDigitSum
+	./test-10/bst-lca
+	./test-11/componentsGraph
+)
